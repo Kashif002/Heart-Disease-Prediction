@@ -1,3 +1,2 @@
 streamlit run "C:\Kashif\Kashif College\Lecture Notes\SEM-7\Project\Prediction Model\Heart Disease Prediction Web App.py"
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.self.com%2Fhealth-conditions%2Fheart-disease&psig=AOvVaw0VcgoWHbbxq649APy51Lui&ust=1694981966536000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICTk4L6r4EDFQAAAAAdAAAAABAE
